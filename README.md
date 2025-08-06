@@ -24,3 +24,5 @@ This project analyzes **sales performance** by identifying top revenue-generatin
 - Promote high-performing categories like **Confections**, **Meat**, and **Poultry**  
 - Adjust pricing strategies for **Grain** and **Dairy** to increase sales  
 - Use loyalty programs or targeted promotions for categories with high repeat potential  
+
+--*Note: This project uses fictional data for demonstration purposes.*
