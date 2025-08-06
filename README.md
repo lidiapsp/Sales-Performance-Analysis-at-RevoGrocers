@@ -13,7 +13,7 @@ This project analyzes **sales performance** by identifying top revenue-generatin
 
 ## 📁 Files  
 - `Sales_Performance_Report.pdf`: Key insights and recommendations  
-- `Sales_Performance_SQL_Queries.sql`: All SQL queries used for analysis  
+- `Sales Performance Analysis at RevoGrocers SQL Query.docx`: All SQL queries used for analysis  
 
 ## 📌 Key Insights  
 - **Confections** led in both revenue and repeat purchases  
