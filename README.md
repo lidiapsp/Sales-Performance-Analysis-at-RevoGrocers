@@ -12,8 +12,8 @@ This project analyzes **sales performance** by identifying top revenue-generatin
 - Google BigQuery (SQL)   
 
 ## 📁 Files  
-- `Sales_Performance_Report.pdf`: Key insights and recommendations  
-- `Sales Performance Analysis at RevoGrocers SQL Query.docx`: All SQL queries used for analysis  
+-  pdf: Key insights and recommendations  
+-  docx: All SQL queries used for analysis  
 
 ## 📌 Key Insights  
 - **Confections** led in both revenue and repeat purchases  
