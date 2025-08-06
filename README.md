@@ -12,7 +12,7 @@ This project analyzes **sales performance** by identifying top revenue-generatin
 - Google BigQuery (SQL)   
 
 ## 📁 Files  
--  pdf: Key insights and recommendations  
+-  pptx: Key insights and recommendations  
 -  docx: All SQL queries used for analysis  
 
 ## 📌 Key Insights  
